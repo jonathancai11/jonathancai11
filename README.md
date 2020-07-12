@@ -1,4 +1,4 @@
-# Hi there 👋
+# Oi 👋
 
 [https://jonathancai.com/](https://jonathancai.com/)
 
