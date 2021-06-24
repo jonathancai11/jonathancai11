@@ -1,5 +1,4 @@
-# Oi 👋
-
+Go build stuff.
 [https://jonathancai.com/](https://jonathancai.com/)
 
 <!--
